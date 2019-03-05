@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../double-drift/doubledrift/expConfig.py" description="&#10;def add_window(name, width_px, height_px, width_c..." line="9" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8ec1c5e1-eff3-493f-ae7d-55b3454d085d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/trust-game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="21" column="46" lean-forward="true" selection-start-line="5" selection-end-line="21" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -145,8 +148,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/trust-game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        <state relative-caret-position="306">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="5" selection-end-line="21" selection-end-column="46" />
         </state>
       </provider>
     </entry>
